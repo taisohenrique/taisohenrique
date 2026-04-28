@@ -30,7 +30,7 @@ Dashboard de BI de alto impacto que transforma planilhas financeiras em decisõe
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python (Especialista), JavaScript, SQL.
+- **Linguagens:** Python, JavaScript, SQL.
 - **IA e Automação:** Desenvolvimento orientado por IA, integração de APIs, n8n.
 - **Infraestrutura:** Servidores Dell PowerEdge, Firewall, Gestão de DNS, Redes.
 - **Controlo de Versão:** Git & GitHub.
