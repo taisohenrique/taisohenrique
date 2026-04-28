@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Full-Stack | Analista de Dados | Especialista em Automação
 
-Atualmente no 7º período de Sistemas de Informação (CEST), foco o meu trabalho na criação de soluções inteligentes que unem **Python**, **Inteligência Artificial** e **Automação de Processos**. Atuo como estagiário de TI no CRA-MA e sou co-fundador da BlackBelt Apex.
+Atualmente no 7º período de Sistemas de Informação (CEST), foco o meu trabalho na criação de soluções inteligentes que unem **Desenvolvimento**, **Inteligência Artificial** e **Automação de Processos**. Atuo como estagiário de TI no CRA-MA e sou co-fundador da BlackBelt Apex.
 
 ---
 
