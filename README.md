@@ -43,7 +43,7 @@ Dashboard de BI de alto impacto que transforma planilhas financeiras em decisõe
 
 ---
 
-## 📫 Contacto
+## 📫 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/t%C3%A1ssio-henrique-alencar-silva-626a3a260
 - **Email:** henriquetassio403@gmail.com
